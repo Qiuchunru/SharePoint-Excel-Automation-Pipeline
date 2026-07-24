@@ -1,0 +1,90 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+
+*.py[cod]
+
+*.pyo
+
+*.pyd
+
+
+# Virtual environments
+
+venv/
+
+env/
+
+.venv/
+
+
+
+# =========================
+# Environment Variables
+# =========================
+
+.env
+
+
+
+# =========================
+# Test / Coverage
+# =========================
+
+.pytest_cache/
+
+.coverage
+
+htmlcov/
+
+
+
+# =========================
+# Jupyter Notebook
+# =========================
+
+.ipynb_checkpoints/
+
+
+
+# =========================
+# IDE Settings
+# =========================
+
+.vscode/
+
+.idea/
+
+
+
+# =========================
+# Operating System
+# =========================
+
+.DS_Store
+
+Thumbs.db
+
+
+
+# =========================
+# Generated Output Files
+# =========================
+
+output/*.xlsx
+
+output/*.csv
+
+output/*.json
+
+
+
+# =========================
+# Temporary Files
+# =========================
+
+*.log
+
+*.tmp
