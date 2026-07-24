@@ -34,7 +34,17 @@ Automated Report
 ```
 
 ---
+# Background
 
+During my Data Engineering internship, I worked with business data workflows involving Excel files, vendor information, and internal data validation processes.
+
+A common challenge in enterprise environments is that important operational data is often stored in spreadsheets and requires manual checking before being used by downstream systems.
+
+This portfolio project recreates that type of workflow by building an automated pipeline that:
+
+- Retrieves Excel files from SharePoint
+- Processes and validates spreadsheet data
+- Generates automated data quality reports
 # Features
 
 ## Microsoft Graph API Integration
