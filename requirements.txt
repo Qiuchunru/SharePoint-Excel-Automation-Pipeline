@@ -1,0 +1,22 @@
+# Microsoft Authentication
+msal==1.32.0
+
+
+# HTTP requests for Microsoft Graph API
+requests==2.32.3
+
+
+# Data processing
+pandas==2.2.3
+
+
+# Excel file support
+openpyxl==3.1.5
+
+
+# Environment variable management
+python-dotenv==1.0.1
+
+
+# Testing
+pytest==8.3.5
