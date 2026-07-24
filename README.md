@@ -1,8 +1,8 @@
 # SharePoint Excel Automation Pipeline
 
-A Python-based data automation pipeline that retrieves Excel files from SharePoint using Microsoft Graph API, processes vendor data, performs data quality checks, and generates automated validation reports.
+A Python-based enterprise data automation project inspired by real-world workflows encountered during my Data Engineering internship.
 
-This project demonstrates an enterprise-style workflow for automating spreadsheet-based business processes, reducing manual data review, and improving data reliability.
+This project demonstrates how Python, Microsoft Graph API, and pandas can be used to automate SharePoint-based Excel data extraction, validation, and reporting processes.
 
 ---
 
